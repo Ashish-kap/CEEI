@@ -27,7 +27,7 @@
       "@/*": ["./src/*"]
     },
     "esModuleInterop": true,
-    "types": ["node", "jest", "@testing-library/jest-dom"]
+    "types": ["node", "jest"]
   },
   "include": ["src"]
 }
